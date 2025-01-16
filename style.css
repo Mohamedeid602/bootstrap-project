@@ -1,0 +1,35 @@
+body{
+        font-family: "Poppins", serif;
+        font-weight: 600;
+        font-style: normal;
+      
+}
+
+  .carousel-control-prev {
+    position: absolute;
+    background-color: #c7e2ff;
+    border-radius: 50%; 
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    z-index: 1;
+    
+  }
+  .carousel-control-prev-icon {
+    filter: invert(1); 
+  }
+
+  .carousel-control-next {
+    position: absolute;
+    background-color: #c7e2ff;
+    border-radius: 50%; 
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    z-index: 1;
+    
+  }
+  .carousel-control-next-icon {
+    filter: invert(1); 
+  }
+
